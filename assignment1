@@ -1,0 +1,21 @@
+D1:
+  - AI is an ambitious scientific and engineering endeavor with the potential for great rewards but also significant risks
+  - Ethical considerations in AI courses are becoming increasingly important
+  - Science fiction is presented as a valuable tool for thinking about the future of AI and the ethical concerns related to autonomous intelligent systems.
+  - Can help AI designers and programmers consider the risks, possibilities, and responsibilities of designing autonomous decision-makers.
+  - It is argued that ethical considerations should be built into AI systems from the ground up, not added as an afterthought.
+  - Ethical theories such as deontology, utilitarianism, and virtue ethics are introduced as fundamental frameworks for analyzing and evaluating ethical issues related to AI.
+    ◦ Deontology understands ethics as following moral law.
+    ◦ Utilitarianism focuses on the greatest possible good for the greatest number.
+    ◦ Virtue ethics is centered on developing habits and dispositions that help individuals flourish.
+D2:
+  - Primary objective is to ensure the safe and responsible development and deployment of AI in Australia, thereby mitigating potential risks and harms to individuals, communities, and society
+  - The Necessity of Guardrails: Government intervention is essential to build confidence and support safe and responsible AI use
+  - Defining High-Risk AI: Proposes a principles-based approach to identify high-risk AI applications based on their known or foreseeable uses and potential adverse impacts. 
+and also considers defining and capturing advanced, highly capable General-Purpose AI (GPAI) models due to their capacity for wide-scale and rapid harm through unforeseen applications
+  - Proposed Mandatory Guardrails: The paper introduces ten mandatory guardrails aimed at preventing harm by focusing on testing, transparency, and accountability throughout the AI lifecycle
+  - Responsibility Allocation: The Australian Government proposes shared responsibility for implementing these guardrails between AI developers and deployers
+  - Regulatory Options: The document considers three main regulatory options for mandating these guardrails:
+    ◦ Domain-specific approach: Integrating guardrails into existing sector-specific regulations.
+    ◦ Framework approach: Introducing overarching framework legislation to guide amendments to existing laws.
+    ◦ Whole-of-economy approach: Enacting a new, comprehensive AI-specific Act
